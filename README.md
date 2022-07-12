@@ -1,2 +1,1 @@
-# learnTestingProject_React
- 
+this project learning about base react testing codes and here is to source of this project : https://app.patika.dev/courses/react/testing-react-testing-library-1
